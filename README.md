@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Marina! 👋
 
-<!--
-**neviosn/neviosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software & Data Engineering student (Class of 2027)**  
+💻 Interested in **software engineering, data engineering, AI/ML, backend development, cloud technologies**, and starting to explore **game development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+**Languages:** Python · Java · SQL · JavaScript · TypeScript · C/C++  
+**Tools:** Git · Linux (Ubuntu) · MySQL · Node.js · Angular · VS Code  
+**Concepts:** Algorithms · Data Structures · OOP · Database Systems · Cloud Fundamentals  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Online Store Web App (Angular + Node.js + MySQL)
+Full-stack web application simulating an online game store.  
+Features: product browsing, game details, cart system, user profiles, rating system, and genre filters.  
+➡️ *Check the repository for details.*
+
+---
+
+### 🔹 Discord Bot (Python)
+Bot built using Python and the Disnake API.  
+Includes message parsing, modular commands architecture, and basic interaction logic.
+
+---
+
+### 🔹 Battleship Game (C)
+Console-based implementation of the classic Battleship game.  
+Focus on memory management, game logic, and core C programming fundamentals.
+
+---
+
+## 🌱 Currently learning
+AI/ML tools · Distributed systems · Cloud development · Backend architecture · Unreal Engine (basics)
+
+---
+
+## 📫 Contact
+**LinkedIn:** https://www.linkedin.com/in/marina-novikova-9755602b7  
+**Email:** coollar500@gmail.com
